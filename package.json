@@ -22,12 +22,12 @@
     "digit",
     "converter"
   ],
-  "author": "Nicolas Nunge <me@nikkow.eu> (http://www.nikkox.eu)",
+  "author": "Nicolas Nunge <me@nikkow.eu> (http://www.nikkow.eu)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikkow/baseconvert/issues"
   },
-  "homepage": "https://github.com/nikkow/baseconvert",
+  "homepage": "http://www.nikkow.eu/base-convert/",
   "devDependencies": {
     "tap": "^0.7.1"
   }
